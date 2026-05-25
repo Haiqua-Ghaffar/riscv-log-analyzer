@@ -8,7 +8,7 @@ This project was developed as part of the MEDS Module 1 Grand Assignment and dem
 - Bash scripting
 - Git workflows
 - Makefile automation
-- Text processing using grep, awk, sort, and pipes
+- Text processing using grep, awk, sort,and pipes.
 
 ---
 
