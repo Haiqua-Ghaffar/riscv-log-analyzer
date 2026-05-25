@@ -1,0 +1,16 @@
+# Output files
+output/*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Editor files
+*.swp
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
