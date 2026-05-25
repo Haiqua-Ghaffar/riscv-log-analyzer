@@ -1,14 +1,13 @@
 # RISC-V Log Analyzer
 
 A shell-based utility for analyzing RISC-V simulation log files and generating summary reports.
-
 This project was developed as part of the MEDS Module 1 Grand Assignment and demonstrates practical usage of:
 
 - Linux command-line tools
 - Bash scripting
 - Git workflows
 - Makefile automation
-- Text processing using grep, awk, sort
+- Text processing using grep, awk, sort, and pipes
 
 ---
 
