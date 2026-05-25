@@ -1,3 +1,7 @@
+# RISC-V Log Analyzer Makefile
+# Automates testing, reporting, setup, and cleanup tasks
+# Part of MEDS Module 1 Grand Assignment
+
 .PHONY: all test report clean help setup
 
 SCRIPT=./scripts/analyze.sh
