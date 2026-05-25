@@ -1,0 +1,55 @@
+=== RISC-V Simulation Log Analysis ===
+Log file: test_data/sample_pass.log
+
+--- Results Summary ---
+Total tests: 2
+Passed: 2
+Failed: 0
+Skipped: 0
+Pass Rate: 100.00%
+
+--- Failed Tests ---
+
+--- Timing Statistics ---
+Min time: 0.65s
+Max time: 0.82s
+Avg time: 0.73s
+--- FINAL VERDICT: PASS ---
+
+=== RISC-V Simulation Log Analysis ===
+Log file: test_data/sample_fail.log
+
+--- Results Summary ---
+Total tests: 4
+Passed: 2
+Failed: 1
+Skipped: 1
+Pass Rate: 50.00%
+
+--- Failed Tests ---
+rv32i-sll
+
+--- Timing Statistics ---
+Min time: 0.65s
+Max time: 1.02s
+Avg time: 0.83s
+--- FINAL VERDICT: FAIL ---
+
+=== RISC-V Simulation Log Analysis ===
+Log file: test_data/sample_sim.log
+
+--- Results Summary ---
+Total tests: 4
+Passed: 2
+Failed: 1
+Skipped: 1
+Pass Rate: 50.00%
+
+--- Failed Tests ---
+rv32i-sll
+
+--- Timing Statistics ---
+Min time: 0.65s
+Max time: 1.02s
+Avg time: 0.83s
+--- FINAL VERDICT: FAIL ---
