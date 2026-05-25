@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Exit on error (-e), undefined variable (-u),
+# Exit on error and don't continue (-e), undefined variable (-u),
 # and pipeline failure (-o pipefail)
 set -euo pipefail
 
